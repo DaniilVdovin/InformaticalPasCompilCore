@@ -1,0 +1,9 @@
+Name=fcl-report
+Version=3.2.0
+Checksum=1355043303
+CPU=i386
+OS=win32
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -di386 -o -dRELEASE -o -XX -o -CX
+Depends=rtl,fcl-base|1355043183,fcl-image|1355043185,fcl-xml|1355043188,fcl-pdf|1355043291,fcl-json|1355043205,fcl-db|1355043212,fcl-web|1355043246
+NeedLibC=N
+FPMakeAddIn=N

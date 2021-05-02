@@ -1,0 +1,9 @@
+Name=pastojs
+Version=3.2.0
+Checksum=1355043301
+CPU=i386
+OS=win32
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -di386 -o -dRELEASE -o -XX -o -CX
+Depends=rtl,paszlib|1355043179,fcl-js|1355043232,fcl-json|1355043205,fcl-passrc|1355043235,fcl-process|1355043236
+NeedLibC=N
+FPMakeAddIn=N

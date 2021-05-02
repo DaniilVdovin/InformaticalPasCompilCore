@@ -1,0 +1,9 @@
+Name=chm
+Version=3.2.0
+Checksum=1355043200
+CPU=i386
+OS=win32
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -di386 -o -dRELEASE -o -XX -o -CX
+Depends=rtl,fcl-xml|1355043188,fcl-base|1355043183,rtl-generics|1355043192
+NeedLibC=N
+FPMakeAddIn=N

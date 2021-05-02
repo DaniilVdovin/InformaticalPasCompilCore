@@ -1,0 +1,9 @@
+Name=odata
+Version=3.2.0
+Checksum=1355043296
+CPU=i386
+OS=win32
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -di386 -o -dRELEASE -o -XX -o -CX
+Depends=rtl,fcl-base|1355043183,rtl-extra|1355043176,rtl-objpas|1355043178,fcl-json|1355043205,fcl-web|1355043246
+NeedLibC=N
+FPMakeAddIn=N

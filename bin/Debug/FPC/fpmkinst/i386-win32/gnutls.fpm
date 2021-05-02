@@ -1,0 +1,9 @@
+Name=gnutls
+Version=3.2.0
+Checksum=1355043304
+CPU=i386
+OS=win32
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -di386 -o -dRELEASE -o -XX -o -CX
+Depends=rtl,fcl-net|1355043236
+NeedLibC=N
+FPMakeAddIn=N

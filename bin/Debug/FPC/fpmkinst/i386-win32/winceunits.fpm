@@ -1,0 +1,9 @@
+Name=winceunits
+Version=3.2.0
+Checksum=1355043277
+CPU=i386
+OS=win32
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -di386 -o -dRELEASE -o -XX -o -CX
+Depends=rtl,rtl-objpas|1355043178,rtl-extra|1355043176
+NeedLibC=N
+FPMakeAddIn=N
